@@ -19,7 +19,16 @@ I am a computer science student, currently at the beginning of my degree.  I don
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 
-  <img src="https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.com/users/1113986945274609664)">
+  
+
+
+
+</span>
+
+<h4> IDEs </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 
 
 
