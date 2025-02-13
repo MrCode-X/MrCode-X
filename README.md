@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluZ2xxeHdjbm1wNzJsd211dTVtdzAxYnhncmd6anE2cWN3a3NteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3u7w8BR07IHDsnzQw/giphy.gif)" width="30px">&nbsp;***About me*** 
 
 I am a computer science student, currently at the beginning of my degree.  I don't have much idea about programming languages, but as the saying goes "if you don't know, you learn". I know the road will be difficult but I must give 100%.
 - 🌱 I’m currently learning ...
