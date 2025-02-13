@@ -19,6 +19,9 @@ I am a computer science student, currently at the beginning of my degree.  I don
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 
+  [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/177131156028784640)
+
+
 
 </span>
 
