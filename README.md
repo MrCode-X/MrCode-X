@@ -104,9 +104,11 @@ I am a computer science student, currently at the beginning of my degree.  I don
 ##
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
+## Thank you for visting my profile
+  
+  ![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
+  
 -----
-<p align="right">
   
 Credits: [MrCode-X](https://github.com/MrCode-X)
 
-</p>
