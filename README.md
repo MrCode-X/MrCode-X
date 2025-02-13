@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I am a computer science student, currently at the beginning of my degree.  I don't have much idea about programming languages, but as the saying goes "if you don't know, you learn". I know the road will be difficult but I must give 100%.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
