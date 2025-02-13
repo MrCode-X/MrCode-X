@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Jose Luis Mayta Chura </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="300px" src="https://64.media.tumblr.com/8360806af9b2832bb1ac9cb86734fa8d/58b4c7c11dae401f-97/s540x810/0e4e05d1fc63b5b27c25f8f5d47f70feb881ba4a.gifv" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
