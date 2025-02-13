@@ -38,12 +38,7 @@ I am a computer science student, currently at the beginning of my degree.  I don
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
+
 <a href="https://www.twitch.tv/valenwerle" >
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
