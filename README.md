@@ -27,7 +27,6 @@ I am a computer science student, currently at the beginning of my degree.  I don
 
 <h4> IDEs </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 
 
