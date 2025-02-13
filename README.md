@@ -88,5 +88,7 @@ I am a computer science student, currently at the beginning of my degree.  I don
 
 -----
 <p align="right">
+  
 Credits: [MrCode-X](https://github.com/MrCode-X)
+
 </p>
